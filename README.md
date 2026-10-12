@@ -7,7 +7,7 @@ Analysis of four A/B tests on an e-commerce checkout funnel. For each test, the 
 ## Links
 
 - [Tableau dashboard](https://public.tableau.com/views/Book1_17841370064470/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- [Data set](https://drive.google.com/file/d/1BXdlt583TDS5-aW3KF3Ya11S0LsIao4d/view?usp=sharing)
+- [Data set](https://github.com/mksmk2012/AB_Test_Analysis/blob/main/results/ab_test_reslts%20-%20ab_test_reslts.csv)
 - [Notebook](https://github.com/mksmk2012/AB_Test_Analysis/blob/main/Project_AB_test.ipynb)
 
 ## Project stages
